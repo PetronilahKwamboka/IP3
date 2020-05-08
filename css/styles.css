@@ -29,3 +29,12 @@
   margin-bottom: 50px;
 
 }
+
+.about{
+  text-align: center;
+  font-family:"Fjalla One", sans-serif;
+  font-weight: 600;
+}
+#about-us{
+  font-weight: bold;
+}
