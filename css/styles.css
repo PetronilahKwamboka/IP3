@@ -85,3 +85,23 @@
   display: none;
   text-align: center;
 }
+
+.portfolio{
+  display: block;
+  align-items: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
+}
+.portfolio h1{
+  font-weight: bolder;
+}
+
+.col-md-3 img{
+  max-height: 100%;
+  max-width: 100%;
+  padding: 10;
+  margin-bottom: 20px;
+
+
+}
