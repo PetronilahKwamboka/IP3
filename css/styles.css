@@ -34,7 +34,27 @@
   text-align: center;
   font-family:"Fjalla One", sans-serif;
   font-weight: 600;
+  margin: 2%;
 }
 #about-us{
   font-weight: bold;
+}
+
+.services{
+  background-image: url("../assets/backgrounds/s_image.jpg");
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: white;
+  text-align: center;
+  padding: 8%;
+  height: 500px;
+  font-family:"Fjalla One", sans-serif;
+  font-weight: bold;
+}
+
+#info{
+  font-size: 14px;
+  padding-top: 2px;
+  margin-bottom: 1px;
 }
