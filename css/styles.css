@@ -1,0 +1,25 @@
+
+.hero-section {
+  background-image: url("../assets/backgrounds/h_img.jpg");
+  background-position: center center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: white;
+  padding: 17%;
+  font-family: 'Gabriela', serif;
+
+}
+.hero-section h1{
+  margin-top: 12px;
+  margin-bottom: 2px;
+}
+.hero-section p{
+  padding: 2%;
+}
+#logo{
+  margin-top: 13px;
+  margin-bottom: 26px;
+  height: 140px;
+  width: 140px;
+}
