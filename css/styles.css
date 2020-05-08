@@ -48,7 +48,7 @@
   color: white;
   text-align: center;
   padding: 8%;
-  height: 500px;
+  height: 300px;
   font-family:"Fjalla One", sans-serif;
   font-weight: bold;
 }
@@ -57,4 +57,19 @@
   font-size: 14px;
   padding-top: 2px;
   margin-bottom: 1px;
+}
+
+.what-we-do h1{
+  text-align: center;
+  font-family: "Fjalla One", sans-serif;
+  font-weight: 600;
+  margin: 2%;
+}
+#design{
+  display: none;
+  text-align: center;
+
+}
+.title{
+  font-weight: bold;
 }
