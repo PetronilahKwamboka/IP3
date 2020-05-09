@@ -51,7 +51,7 @@ $(document).ready(function(){
      var message = $("textarea#comment").val();
 
      if($("#input-name").val() && $("#input-email").val()){
-       alert(name + " we have received your message. Thank you fro reaching out to us.")
+       alert(name + " we have received your message. Thank you for reaching out to us.")
      }
      else{
        alert("Please enter your name and email.")
