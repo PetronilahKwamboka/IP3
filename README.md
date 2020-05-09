@@ -1,6 +1,6 @@
 # DELANI STUDIO
 
-##Author
+## Author
 Petronilah Kwamboka with the aid of Jonny Govish content.
 
 
@@ -16,7 +16,7 @@ git clone https://github.com/PetronilahKwamboka/IP3.git
 
 open the  document in a text editor
 
-##Technologies used
+## Technologies used
 
 The success of this project was aided by the following tools and languages:
 
@@ -27,9 +27,9 @@ The success of this project was aided by the following tools and languages:
        Git
 
 ## Link To Site
+https://petronilahkwamboka.github.io/IP3/
 
-
-##Bugs
+## Bugs
  The website is not responsive to smaller devices, i tried to make it responsive but could not fix it, jus in case, anyone can contribute  and fix it.
 
 
@@ -45,9 +45,9 @@ The success of this project was aided by the following tools and languages:
 
 
 
-###Copyright(c)
+### Copyright(c)
 
 All rights reserver to Petronilah Kwamboka & Jonny Govish
 
-###LICENCE
+### LICENCE
    MIT
