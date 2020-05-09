@@ -34,3 +34,12 @@ $(document).ready(function(){
     $("div#product").toggle();
   });
 });
+
+
+$(document).ready(function(){
+  $(".col-md-3 img").mouseover(function(){
+    $(".text").show();
+  }).mouseout(function(){
+    $(".text").hide();
+  });
+});
