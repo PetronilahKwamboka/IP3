@@ -103,5 +103,14 @@
   padding: 10;
   margin-bottom: 20px;
 
+}
+.text{
+  position: absolute;
+  bottom: 0;
+  padding: 10px;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.3);
+  color: darkred;
+  display: none;
 
 }
