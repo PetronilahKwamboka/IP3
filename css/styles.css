@@ -114,3 +114,29 @@
   display: none;
 
 }
+
+.contact{
+  background-image: url("../assets/backgrounds/c_image.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 10%;
+  margin: 5px;
+  color: white;
+  text-align: center;
+
+}
+
+ .form-control{
+   background: rgba(0, 0, 0, 0.3);
+   color: white;
+   margin-left: 10%;
+   margin-right: 10%;
+ }
+
+ .message{
+   background: rgba(0, 0, 0, 0.3);
+   color: white;
+   margin-left: 10%;
+   margin-right: 10%;
+ }
