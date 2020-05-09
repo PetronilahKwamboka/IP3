@@ -164,3 +164,13 @@
     margin-right: 500px;
     background: transparent;
   }
+
+  footer{
+    margin: 4%;
+    text-align: center;
+
+  }
+
+  footer p{
+    margin: 10px;
+  }
