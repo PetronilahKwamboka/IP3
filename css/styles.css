@@ -120,23 +120,47 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  padding: 10%;
-  margin: 5px;
+  margin: 1px;
   color: white;
-  text-align: center;
+
 
 }
 
+.contact h2{
+  color: white;
+  margin-bottom: 1%;
+  padding: 40px;
+  font-family: "Fjalla One", sans-serif;
+  text-align: center;
+}
+
  .form-control{
-   background: rgba(0, 0, 0, 0.3);
+   background: rgba(0, 0, 0, 0.1);
    color: white;
-   margin-left: 10%;
-   margin-right: 10%;
+
+
  }
 
- .message{
-   background: rgba(0, 0, 0, 0.3);
+#comment{
+   background: rgba(0, 0, 0, 0.1);
    color: white;
-   margin-left: 10%;
-   margin-right: 10%;
+   width: 40%;
+   margin-left: 350px;
+   margin-right: 350px;
+
  }
+ #input-name{
+  width: 110%;
+  margin-left:120%;
+  margin-right: 20%;
+ }
+ #input-email{
+   width: 110%;
+   margin-left:200%;
+   margin-right: 200%;
+ }
+  button{
+    margin-left: 600px;
+    margin-right: 500px;
+    background: transparent;
+  }
